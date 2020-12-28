@@ -10,3 +10,5 @@ Um pouco sobre mim
 - Sou estágiario na área de tecnologia da GetNet 
 - Atualmente estou estudando Java e JavaScript
 
+Stack  🤓 💻
+
