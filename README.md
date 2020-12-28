@@ -12,6 +12,6 @@ Um pouco sobre mim
 
 Stack 🤓💻
 
-<img align="right" width="40%" src="https://marcas-logos.net/wp-content/uploads/2020/11/JavaScript-logo-600x375.png" alt="Basecamp sky" />
+<img align="right" width="40%" src="https://media.giphy.com/media/YxdQy6Vxbvb44/giphy.gif" alt="Basecamp sky" />
 
 
