@@ -1,6 +1,5 @@
-<p style="align-items: center;">
 # Seja Bem Vindo!
-</p>
+
 ### Desenvolvimento com foco em Back-End. 
 
 
