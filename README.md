@@ -13,6 +13,8 @@ Um pouco sobre mim
 - Estudo da Faculdade BandTec
 - Sou estágiario na área de tecnologia da GetNet 
 - Atualmente estou estudando Java e JavaScript
+<br>
+<br>
 
 Stack 🤓💻
 
@@ -23,8 +25,10 @@ Stack 🤓💻
 <img align="left" alt="css" width="45px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" />
 
 
-
+<br>
+<br>
 ## Recent Acitivies 
+<br>
 <center>
 <table>
   <tr>
