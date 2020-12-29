@@ -2,7 +2,7 @@
 
 ### Desenvolvimento com foco em Back-End. 
 
-<img align="right" width="40%" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" alt="Developer" />
+<img align="right" width="40%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Developer" />
 
 <br>
 <br>
