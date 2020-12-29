@@ -1,7 +1,7 @@
 # Seja Bem Vindo!
 
 ### Desenvolvimento com foco em Back-End. 
-<img align="right" width="50%" src="https://miro.medium.com/max/3200/1*i8-u-V8LTTbQwTeUwLI_BQ.gif" alt="Developer" />
+<img align="right" width="50%" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" alt="Developer" />
 
 
 Um pouco sobre mim
