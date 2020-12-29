@@ -1,4 +1,6 @@
-<p style="align-items: center;">#  Seja Bem Vindo! </p>
+<p style="align-items: center;">
+# Seja Bem Vindo!
+</p>
 ### Desenvolvimento com foco em Back-End. 
 
 
@@ -11,6 +13,8 @@ Um pouco sobre mim
 
 Stack 🤓💻
 
-<img width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Basecamp sky" />
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Mysql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 
