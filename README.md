@@ -16,7 +16,7 @@ Um pouco sobre mim
 <br>
 <br>
 
-Stack 🤓💻
+## Stack 🤓💻
 
 <img align="left" alt="Java" width="60px" src="https://logospng.org/download/java/logo-java-256.png" />
 <img align="left" alt="JavaScript" width="75px" src="https://lh3.googleusercontent.com/proxy/cG5RoxQ5zRuK23iLCNjQDBRU-uMGolANw7LYTbh3R7xOeEqqLNWX9WoeKxZgZaB6XPxzPAkPJTyJQW3RKqnsSo6608VPr_lcjMWejjaL3qnZRWIhYweQfmk" />
@@ -25,6 +25,8 @@ Stack 🤓💻
 <img align="left" alt="css" width="45px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" />
 
 
+<br>
+<br>
 <br>
 <br>
 
