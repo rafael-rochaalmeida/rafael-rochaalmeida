@@ -28,7 +28,7 @@ Stack 🤓💻
 <br>
 <br>
 
-## Recent Acitivies 
+## Atividades Recentes 
 <br>
 <center>
 <table>
