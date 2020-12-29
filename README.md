@@ -9,9 +9,9 @@
 
 Um pouco sobre mim
 
-- Estou no 2° Semestre do curso de Análise e Desenvolimento de Sistemas
+- Estou no 2° Semestre do curso de Análise e Desenvolimento de Sistemas 😎 
 - Estudo da Faculdade BandTec
-- Sou estágiario na área de tecnologia da GetNet 
+- Sou estágiario na área de tecnologia da GetNet <img align="left" alt="Logo GetNet" width="30px" src="https://site.getnet.com.br/wp-content/uploads/2019/08/getnet-banner-destaque.png" />
 - Atualmente estou estudando Java e JavaScript
 <br>
 <br>
