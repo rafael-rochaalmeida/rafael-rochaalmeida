@@ -17,7 +17,7 @@ Um pouco sobre mim
 ## Stack 🤓💻
 
 <img align="left" alt="Java" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
-<img align="left" alt="JavaScript" width="75px" src="https://lh3.googleusercontent.com/proxy/cG5RoxQ5zRuK23iLCNjQDBRU-uMGolANw7LYTbh3R7xOeEqqLNWX9WoeKxZgZaB6XPxzPAkPJTyJQW3RKqnsSo6608VPr_lcjMWejjaL3qnZRWIhYweQfmk" />
+<img align="left" alt="JavaScript" width="75px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Mysql" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="html" width="45px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" />
 <img align="left" alt="css" width="45px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" />
