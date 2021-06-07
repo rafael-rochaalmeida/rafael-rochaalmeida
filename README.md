@@ -43,15 +43,14 @@ Um pouco sobre mim
 </br>
 </br>
 
-<a href="https://github.com/Britooo/Britooo">
-  <img widht="50%" height="194px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Britooo&hide=html&title_color=D8A52C&text_color=8DBF7B&icon_color=a9fef7&bg_color=282828&layout=compact" />
+<a href="https://github.com/rafael-rochaalmeida">
+  <img widht="50%" height="194px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-rochaalmeida&hide=html&title_color=D8A52C&text_color=8DBF7B&icon_color=a9fef7&bg_color=282828&layout=compact" />
 </a>
 
 </br>
 </br>
 
-  <img height="194px"  width="500px" align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=12142473032&cover_image=false&theme=default" />
-
+ 
 </p>
 
   </tr>  
