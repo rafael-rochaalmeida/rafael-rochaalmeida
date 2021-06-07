@@ -36,8 +36,8 @@ Um pouco sobre mim
       ## &#x1f4c8; GitHub Stats
 
 <p align="center">
-<a href="https://github.com/Britooo/Britooo">
-    <img widht="48%" height="194px" align="center" src="https://github-readme-stats.vercel.app/api?username=Britooo&show_icons=true&theme=gruvbox"/>
+<a href="https://github.com/rafael-rochaalmeida">
+    <img widht="48%" height="194px" align="center" src="https://github-readme-stats.vercel.app/api?username=rafael-rochaalmeida&show_icons=true&theme=gruvbox"/>
 </a>
 
 </br>
