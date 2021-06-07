@@ -33,8 +33,27 @@ Um pouco sobre mim
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-rochaalmeida&hide=html&layout=compact&theme=radical" /></td>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=rafael-rochaalmeida&theme=radical&show_icons=true" /></td>
+      ## &#x1f4c8; GitHub Stats
+
+<p align="center">
+<a href="https://github.com/Britooo/Britooo">
+    <img widht="48%" height="194px" align="center" src="https://github-readme-stats.vercel.app/api?username=Britooo&show_icons=true&theme=gruvbox"/>
+</a>
+
+</br>
+</br>
+
+<a href="https://github.com/Britooo/Britooo">
+  <img widht="50%" height="194px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Britooo&hide=html&title_color=D8A52C&text_color=8DBF7B&icon_color=a9fef7&bg_color=282828&layout=compact" />
+</a>
+
+</br>
+</br>
+
+  <img height="194px"  width="500px" align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=12142473032&cover_image=false&theme=default" />
+
+</p>
+
   </tr>  
 </table>
 </center>
