@@ -7,7 +7,7 @@
 
 Um pouco sobre mim
 
-- 😎 Estou no 3° Semestre do curso de Análise e Desenvolimento de Sistemas 
+- 😎 Estou no 4° Semestre do curso de Análise e Desenvolimento de Sistemas 
 - 🤓 Estudo na Faculdade BandTec 🎓
 - 😊 Sou estágiario na área de tecnologia da GetNet 
 - 👨🏽‍💻 Atualmente estou estudando Java e JavaScript 
