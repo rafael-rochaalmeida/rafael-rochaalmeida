@@ -17,7 +17,7 @@ Um desenvolvedor de software apaixonado por tecnologia.
 <!--   <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/express-original.svg" width="50" height="40" align="center"/> -->
   <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/git-plain.svg" width="50" height="40" align="center"/>
   <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/mysql-plain.svg" width="50" height="40" align="center"/>
-  <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/mongodb-original.svg" width="50" height="40" align="center"/>
+  <img src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" width="50" height="40" align="center"/>
 
 </div><br>
 
