@@ -22,7 +22,7 @@ Um desenvolvedor de software apaixonado por tecnologia.
 </div><br>
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandresaints&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://anatomia-papel-e-caneta.com/wp-content/uploads/2019/06/programador.gif" />
 </a>
 
 ## **Vamos nos Conectar:**
@@ -33,9 +33,9 @@ Um desenvolvedor de software apaixonado por tecnologia.
 
   <a target="_blank" href="https://www.instagram.com/7rafaelrocha/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
+<!--  
    <a target="_blank" href="mailto:alexandresaintss@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a> -->
 </p>
 <br>
 
