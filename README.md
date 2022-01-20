@@ -21,9 +21,11 @@ Um desenvolvedor de software apaixonado por tecnologia.
 
 </div><br>
 
+
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeel-rochaalmeida&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-rochaalmeida&theme=dracula&hide_langs_below=1" />
 </a>
+
 
 
 
