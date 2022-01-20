@@ -4,6 +4,25 @@ Um desenvolvedor de software apaixonado por tecnologia.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
+
+```java
+const express = require('express')
+const app = express()
+
+const webDeveloper = {name:"Alexandre", stack:"Full-Stack-Developer"}
+
+app.get('/', (req, res) =>{
+  return res.send(webDeveloper)
+}),
+
+app.listen(3000, () =>{
+  console.log("Initing code...")
+})
+
+```
+
+
+
 <img align="right" width="300" src="https://anatomia-papel-e-caneta.com/wp-content/uploads/2019/06/programador.gif" />
 
 
