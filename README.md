@@ -11,7 +11,7 @@ Um desenvolvedor de software apaixonado por tecnologia.
 
 <div style="display: inline_block"><br>
   <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/javascript-plain.svg" width="50" height="40" align="center"/>
-  <img src="https://www.sqlsplus.com/wp-content/uploads/2020/07/Oracle-PL-SQL-Conversions-function.png" width="50" height="40" align="center"/>
+  <img src="https://cdn.educba.com/academy/wp-content/uploads/2018/11/PLSQL-Interview-Questions.jpg" width="50" height="40" align="center"/>
   <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/react-original.svg" width="50" height="40" align="center"/>
 <!--   <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/nodejs-original.svg" width="50" height="40" align="center"/> -->
 <!--   <img src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/express-original.svg" width="50" height="40" align="center"/> -->
