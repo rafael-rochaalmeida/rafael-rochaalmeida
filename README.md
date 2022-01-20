@@ -39,7 +39,7 @@ app.listen(3000, () =>{
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Node" height="30" width="40" src="https://github.com/alexandresaints/alexandresaints/blob/main/Profile--GitHubAuxiliaryFiles/mysql-plain.svg">
   <img align="center" alt="Rafa-Oracle" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Rafa-Java" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Rafa-Csharp" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
 
   
