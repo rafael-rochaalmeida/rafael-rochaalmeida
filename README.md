@@ -9,10 +9,10 @@ Um desenvolvedor de software apaixonado por tecnologia.
 const express = require('express')
 const app = express()
 
-const webDeveloper = {name:"Rafael", stack:"Developer"}
+const developer = {name:"Rafael", stack:"Developer"}
 
 app.get('/', (req, res) =>{
-  return res.send(Developer)
+  return res.send(developer)
 }),
 
 app.listen(3000, () =>{
