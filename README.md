@@ -5,6 +5,9 @@ Um desenvolvedor de software apaixonado por tecnologia.
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 
+<img align="right" width="300" src="https://anatomia-papel-e-caneta.com/wp-content/uploads/2019/06/programador.gif" />
+
+
 ```javascript
 const express = require('express')
 const app = express()
@@ -20,11 +23,6 @@ app.listen(3000, () =>{
 })
 
 ```
-
-
-
-<img align="right" width="300" src="https://anatomia-papel-e-caneta.com/wp-content/uploads/2019/06/programador.gif" />
-
 
 ## **Linguagens e Ferramentas:**  
 
