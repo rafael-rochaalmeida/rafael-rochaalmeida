@@ -21,9 +21,9 @@ Um desenvolvedor de software apaixonado por tecnologia.
 
 </div><br>
 
-<a href="https://github.com/Gurupreet">
+<!-- <a href="https://github.com/Gurupreet">
   <img align="center" src="https://anatomia-papel-e-caneta.com/wp-content/uploads/2019/06/programador.gif" />
-</a>
+</a> -->
 
 ## **Vamos nos Conectar:**
 
