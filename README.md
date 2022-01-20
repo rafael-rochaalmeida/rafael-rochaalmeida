@@ -41,7 +41,7 @@ app.listen(3000, () =>{
   <img align="center" alt="Rafa-Oracle" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="Rafa-Java" height="60" width="55" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Rafa-Csharp" height="60" width="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="60" width="30" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Rafa-Csharp" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
 
 
   
