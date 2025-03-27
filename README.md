@@ -1,8 +1,5 @@
 ### Olá! Me chamo Rafael! 👋
 
-Um desenvolvedor de software apaixonado por tecnologia. Estudo análise e desenvolvimento de sistemas na BandTec/SPTech. 
-Estou no 4° e último semestre do curso. Atualmente trabalho como estagiário em sustentação com foco em sistemas de pagamentos
-na Getnet. Estou estudando Java, Spring Boot e PL/SQL para ser um desenolvedor Back-End
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
